@@ -1,1 +1,7 @@
-.vercel
+.DS_Store
+.vercel/
+_compare/
+__pycache__/
+*.pyc
+upload-*.err
+upload-*.code
